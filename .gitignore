@@ -1,0 +1,4 @@
+# Secretos locales: nunca al repo (es público).
+.env
+.env.*
+!.env.example
